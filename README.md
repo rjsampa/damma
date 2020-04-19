@@ -4,14 +4,18 @@ Biblioteca realiza o downscaling dos dados de saida do modelo atmosférico WRF u
 
 ## Inicializando 
 
-Adicione os arquivos wrfout em formato netCDF no mesmo diretorio e seguir os passos decritos no runDamma.ipynb
+Copiar o diretório damma para pasta que contenha os arquivos wrfout em formato netCDF. Copiar o notebook runDamma.ipynb e seguir os passos 
 
 ### Prerequisites
 
 Pandas
+
 Numpy
+
 Matplotlib
+
 netCDF4
+
 Scikit-learn
 
 
