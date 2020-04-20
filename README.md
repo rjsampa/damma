@@ -1,6 +1,6 @@
 # Damma - Downscaling atmospheric model
 
-Biblioteca realiza o downscaling dos dados de saida do modelo atmosférico WRF utilizando algoritmos de machine learning 
+Biblioteca para o downscaling dos dados de saida do modelo atmosférico WRF utilizando algoritmos de machine learning 
 
 ## Inicializando 
 
